@@ -10,5 +10,10 @@ A reading list of resources to Representation Learning
 
 ## Other Important Papers
 #### Mean Shift Clustering 
-- Mean Shift: A Robust Approach Towards Feature Space Analysis. [[Paper](https://courses.csail.mit.edu/6.869/handouts/PAMIMeanshift.pdf)] [2002
+- Mean Shift: A Robust Approach Towards Feature Space Analysis. [[Paper](https://courses.csail.mit.edu/6.869/handouts/PAMIMeanshift.pdf)] [2002]
 - Semi-Supervised Kernel Mean Shift Clustering. [[Paper](https://faculty.iiitd.ac.in/~anands/files/papers/skms_pami2014.pdf)] [2014]
+
+
+#### Contrastive Predictive Coding
+- Representation Learning Using Contrastive Predictive Coding. [[Paper]()] [2019]
+- Data-Efficient Image Recognition with Contrastive Predictive Coding. [[Paper](https://arxiv.org/pdf/1905.09272.pdf)] [2019]
