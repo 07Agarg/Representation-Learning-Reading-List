@@ -70,6 +70,13 @@
 - Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning. [[Paper](https://arxiv.org/pdf/2006.07733.pdf)] [arXiv] [2020]
 - What makes for good views for contrastive learning. [[Paper](https://arxiv.org/pdf/2005.10243.pdf)] [arXiv] [2020]
 - Generative Pretraining from Pixels. [[Paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [ICML] [2020]
+- Self-supervised Co-training for Video Representation Learning. [[Paper](https://arxiv.org/abs/2010.09709v1)][NeurIPS][2020]
+- Contrastive Learning with Hard Negative Samples. [[Paper](https://arxiv.org/abs/2010.04592v1)][arXiv][2020]
+- Contrastive Representation Learning: A Framework and Review. [[Paper](https://arxiv.org/abs/2010.05113v2)][IEEE Access][2020]
+- Hard Negative Mixing for Contrastive Learning. [[Paper](https://arxiv.org/abs/2010.01028v1)] [NeurIPS][2020]
+- Representation learning from videos in-the-wild: An object-centric approach. [[Paper](https://arxiv.org/pdf/2010.02808v1.pdf)][arXiv][2020]
+- On the surprising similarities between supervised and self-supervised models. [[Paper](https://arxiv.org/abs/2010.08377v1)][arXiv][2020]
+- Understanding Self-supervised Learning with Dual Deep Networks. [[Paper](https://arxiv.org/abs/2010.00578v3)][arXiv][2020]
 
 
 ## Clustering 
@@ -102,6 +109,12 @@
 - Dissimilarity Mixture Autoencoder for Deep Clustering. [[Paper](https://arxiv.org/pdf/2006.08177v3.pdf)] [arXiv] [2020]
 - Online Deep Clustering for Unsupervised Representation Learning. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhan_Online_Deep_Clustering_for_Unsupervised_Representation_Learning_CVPR_2020_paper.pdf)] [CVPR] [2020]
 - End-to-End Adversarial-Attention Network for Multi-Modal Clustering. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_End-to-End_Adversarial-Attention_Network_for_Multi-Modal_Clustering_CVPR_2020_paper.pdf)] [CVPR] [2020]
+- Deep Robust Clustering by Contrastive Learning. [[Paper](https://arxiv.org/pdf/2008.03030v2.pdf)][arXiv][2020]
+- Deep Transformation-Invariant Clustering. [[Paper](https://arxiv.org/abs/2006.11132v2)][NeurIPS][2020]
+- Scalable Bottom-Up Hierarchical Clustering. [[Paper(https://arxiv.org/abs/2010.11821v1)][arXiv][2020]
+- Multi-Modal Deep Clustering: Unsupervised Partitioning of Images. [[Paper](https://arxiv.org/abs/1912.02678v2)][ICPR][2020]
+- Data Structures & Algorithms for Exact Inference in Hierarchical Clustering. [[Paper](https://arxiv.org/abs/2002.11661v3)][arXiv][2020]
+- Deep Clustering and Representation Learning that Preserves Geometric Structures. [[Paper](https://arxiv.org/abs/2009.09590v2)][arXiv][2020]
 
 
 ## Disentanglement
