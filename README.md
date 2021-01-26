@@ -64,8 +64,8 @@
 - Data-Efficient Image Recognition with Contrastive Predictive Coding. [[Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/3694-Paper.pdf)] [ICML] [2020]
 - When Does Self-Supervision Help Graph Convolutional Networks? [[Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/1185-Paper.pdf)] [ICML] [2020]
 - Adaptive Adversarial Multi-task Representation Learning. [[Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/1125-Paper.pdf)] [ICML] [2020]
-- Parametric Instance Classification for Unsupervised Visual Feature Learning. [[Paper](https://arxiv.org/pdf/2006.14618v1.pdf)] [arXiv] [2020]
-- Big Self-Supervised Models are Strong Semi-Supervised Learners. [[Paper](https://arxiv.org/pdf/2006.10029v1.pdf)] [arXiv] [2020]
+- Parametric Instance Classification for Unsupervised Visual Feature Learning. [[Paper](https://arxiv.org/pdf/2006.14618v1.pdf)] [NeurIPS] [2020]
+- Big Self-Supervised Models are Strong Semi-Supervised Learners. [[Paper](https://arxiv.org/pdf/2006.10029v1.pdf)] [NeurIPS] [2020]
 - Self-supervised Learning: Generative or Contrastive. [[Paper](https://arxiv.org/pdf/2006.08218v3.pdf)] [arXiv] [2020]
 - Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning. [[Paper](https://arxiv.org/pdf/2006.07733.pdf)] [arXiv] [2020]
 - What makes for good views for contrastive learning. [[Paper](https://arxiv.org/pdf/2005.10243.pdf)] [arXiv] [2020]
@@ -77,6 +77,14 @@
 - Representation learning from videos in-the-wild: An object-centric approach. [[Paper](https://arxiv.org/pdf/2010.02808v1.pdf)][arXiv][2020]
 - On the surprising similarities between supervised and self-supervised models. [[Paper](https://arxiv.org/abs/2010.08377v1)][arXiv][2020]
 - Understanding Self-supervised Learning with Dual Deep Networks. [[Paper](https://arxiv.org/abs/2010.00578v3)][arXiv][2020]
+- Adversarial Self-Supervised Contrastive Learning. [[Paper](https://arxiv.org/abs/2006.07589)][NeurIPS][2020]
+- Self-Supervised Relationship Probing. [[Paper](https://papers.nips.cc/paper/2020/file/13f320e7b5ead1024ac95c3b208610db-Paper.pdf][NeurIPS][2020]
+- Self-Supervised Learning by Cross-Modal Audio-Video Clustering. [[Paper](https://proceedings.neurips.cc//paper/2020/file/6f2268bd1d3d3ebaabb04d6b5d099425-Paper.pdf)][NeurIPS][2020]
+- Self-Supervised Generative Adversarial Compression. [[Paper](https://arxiv.org/pdf/2007.01491.pdf)][NeurIPS][2020]
+- Unsupervised Representation Learning by Invariance Propagation. [[Paper](https://papers.nips.cc/paper/2020/file/23af4b45f1e166141a790d1a3126e77a-Paper.pdf)][NeurIPS][2020]
+- Unsupervised Data Augmentation for Consistency Training. [[Paper](https://papers.nips.cc/paper/2020/file/44feb0096faa8326192570788b38c1d1-Paper.pdf)][NeurIPS][2020]
+- Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning. [[Paper](https://papers.nips.cc/paper/2020/file/71a58e8cb75904f24cde464161c3e766-Paper.pdf)][NeurIPS][2020]
+- Self-Supervised Visual Representation Learning from Hierarchical Grouping. [[Paper](https://papers.nips.cc/paper/2020/file/c1502ae5a4d514baec129f72948c266e-Paper.pdf)][NeurIPS][2020]
 
 
 ## Clustering 
@@ -115,11 +123,13 @@
 - Multi-Modal Deep Clustering: Unsupervised Partitioning of Images. [[Paper](https://arxiv.org/abs/1912.02678v2)][ICPR][2020]
 - Data Structures & Algorithms for Exact Inference in Hierarchical Clustering. [[Paper](https://arxiv.org/abs/2002.11661v3)][arXiv][2020]
 - Deep Clustering and Representation Learning that Preserves Geometric Structures. [[Paper](https://arxiv.org/abs/2009.09590v2)][arXiv][2020]
+- Adversarial Learning for Robust Deep Clustering. [[Paper](https://papers.nips.cc/paper/2020/file/6740526b78c0b230e41ae61d8ca07cf5-Paper.pdf)][NeurIPS][2020]
 
 
 ## Disentanglement
 - Disentangling Factors of Variation by Mixing Them. [[Paper](https://arxiv.org/pdf/1711.07410.pdf)] [CVPR] [2018]
 - Weakly Supervised Disentanglement With Guarantees. [[Paper](https://arxiv.org/pdf/1910.09772.pdf)] [ICLE] [2020]
+
 
 ## Metric Learning
 - Improved deep metric learning with multi-class n-pair loss objective. [[Paper](http://papers.nips.cc/paper/6200-improved-deep-metric-learning-with-multi-class-n-pair-loss-objective.pdf)] [NeurIPS] [2016]
@@ -128,5 +138,7 @@
 - Supervised Contrastive Learning. [[Paper](https://arxiv.org/pdf/2004.11362v1.pdf)] [arXiv preprint] [2020]
 - Proxy Anchor Loss for Deep Metric Learning. [[Paper](https://arxiv.org/abs/2003.13911)] [CVPR] [2020]
 
+
 ## Book Chapters
 - Representation Learning. Deeplearning. Book Chapter 15. [[Book](https://www.deeplearningbook.org/contents/representation.html)]
+
