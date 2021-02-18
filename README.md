@@ -85,7 +85,8 @@
 - Unsupervised Data Augmentation for Consistency Training. [[Paper](https://papers.nips.cc/paper/2020/file/44feb0096faa8326192570788b38c1d1-Paper.pdf)][NeurIPS][2020]
 - Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning. [[Paper](https://papers.nips.cc/paper/2020/file/71a58e8cb75904f24cde464161c3e766-Paper.pdf)][NeurIPS][2020]
 - Self-Supervised Visual Representation Learning from Hierarchical Grouping. [[Paper](https://papers.nips.cc/paper/2020/file/c1502ae5a4d514baec129f72948c266e-Paper.pdf)][NeurIPS][2020]
-
+- Self-training with Noisy Student improves ImageNet classification. [[Paper](https://arxiv.org/pdf/1911.04252v4.pdf)][CVPR][2020]
+- Boosting Contrastive Self-Supervised Learning with False Negative Cancellation. [[Paper](https://arxiv.org/pdf/2011.11765.pdf)][arXiv][2020]
 
 ## Clustering 
 - Mean Shift: A Robust Approach Towards Feature Space Analysis. [[Paper](https://courses.csail.mit.edu/6.869/handouts/PAMIMeanshift.pdf)] [Trans.PAMI] [2002]
@@ -124,7 +125,7 @@
 - Data Structures & Algorithms for Exact Inference in Hierarchical Clustering. [[Paper](https://arxiv.org/abs/2002.11661v3)][arXiv][2020]
 - Deep Clustering and Representation Learning that Preserves Geometric Structures. [[Paper](https://arxiv.org/abs/2009.09590v2)][arXiv][2020]
 - Adversarial Learning for Robust Deep Clustering. [[Paper](https://papers.nips.cc/paper/2020/file/6740526b78c0b230e41ae61d8ca07cf5-Paper.pdf)][NeurIPS][2020]
-
+- CONSENSUS CLUSTERING WITH UNSUPERVISED REPRESENTATION LEARNING. [[Paper](https://arxiv.org/pdf/2010.01245.pdf)][arXiv][2020]
 
 ## Disentanglement
 - Disentangling Factors of Variation by Mixing Them. [[Paper](https://arxiv.org/pdf/1711.07410.pdf)] [CVPR] [2018]
