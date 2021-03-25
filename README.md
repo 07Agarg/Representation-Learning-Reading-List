@@ -88,6 +88,7 @@
 - Self-training with Noisy Student improves ImageNet classification. [[Paper](https://arxiv.org/pdf/1911.04252v4.pdf)][CVPR][2020]
 - Boosting Contrastive Self-Supervised Learning with False Negative Cancellation. [[Paper](https://arxiv.org/pdf/2011.11765.pdf)][arXiv][2020]
 
+
 ## Clustering 
 - Mean Shift: A Robust Approach Towards Feature Space Analysis. [[Paper](https://courses.csail.mit.edu/6.869/handouts/PAMIMeanshift.pdf)] [Trans.PAMI] [2002]
 - Semi-Supervised Kernel Mean Shift Clustering. [[Paper](https://faculty.iiitd.ac.in/~anands/files/papers/skms_pami2014.pdf)] [Trans.PAMI] [2014]
@@ -126,6 +127,19 @@
 - Deep Clustering and Representation Learning that Preserves Geometric Structures. [[Paper](https://arxiv.org/abs/2009.09590v2)][arXiv][2020]
 - Adversarial Learning for Robust Deep Clustering. [[Paper](https://papers.nips.cc/paper/2020/file/6740526b78c0b230e41ae61d8ca07cf5-Paper.pdf)][NeurIPS][2020]
 - CONSENSUS CLUSTERING WITH UNSUPERVISED REPRESENTATION LEARNING. [[Paper](https://arxiv.org/pdf/2010.01245.pdf)][arXiv][2020]
+
+
+## Semi-Supervised Learning
+- Temporal ensembling for semi-supervised learning. [[Paper](https://arxiv.org/pdf/1610.02242.pdf))][ICLR][2016]
+- Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results. [[Paper](https://arxiv.org/pdf/1703.01780.pdf)][ICLR][2017]
+- Virtual adversarial training: a regularization method for supervised and semi-supervised learning. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8417973)][IEEE transactions on pattern analysis and machine intelligence][2018]
+- Pseudo Labelling
+- MixMatch: A Holistic Approach to Semi-Supervised Learning.[[Paper](https://papers.nips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf)][NeurIPS][2019]
+- FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence. [[Paper](https://papers.nips.cc/paper/2020/file/06964dce9addb1c5cb5d6e3d9838f733-Paper.pdf)][NeurIPS][2020]
+- DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [[Paper](https://openreview.net/pdf?id=HJgExaVtwr)][ICLR][2020]
+- ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring. [[Paper](https://openreview.net/pdf?id=HklkeR4KPB)][ICLR][2020]
+- CoMatch: Semi-supervised Learning with Contrastive Graph Regularization. [[Paper](https://arxiv.org/pdf/2011.11183v2.pdf)][arXiv][2021]
+
 
 ## Disentanglement
 - Disentangling Factors of Variation by Mixing Them. [[Paper](https://arxiv.org/pdf/1711.07410.pdf)] [CVPR] [2018]
