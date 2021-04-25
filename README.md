@@ -87,6 +87,16 @@
 - Self-Supervised Visual Representation Learning from Hierarchical Grouping. [[Paper](https://papers.nips.cc/paper/2020/file/c1502ae5a4d514baec129f72948c266e-Paper.pdf)][NeurIPS][2020]
 - Self-training with Noisy Student improves ImageNet classification. [[Paper](https://arxiv.org/pdf/1911.04252v4.pdf)][CVPR][2020]
 - Boosting Contrastive Self-Supervised Learning with False Negative Cancellation. [[Paper](https://arxiv.org/pdf/2011.11765.pdf)][arXiv][2020]
+- Dense Contrastive Learning for Self-Supervised Visual Pre-Training. [[Paper](https://arxiv.org/abs/2104.09124v1)][CVPR][2021]
+- SEED: Self-supervised Distillation For Visual Representation. [[Paper](https://arxiv.org/abs/2101.04731v2)][ICLR][2021]
+- Dual-stream Multiple Instance Learning Network for Whole Slide Image Classification with Self-supervised Contrastive Learning. [[Paper](https://arxiv.org/abs/2011.08939v3)][CVPR][2021]
+- Self-supervised Video Representation Learning by Context and Motion Decoupling. [[Paper](https://arxiv.org/abs/2104.00862v1)][CVPR][2021]
+- Self-supervised Motion Learning from Static Images. [[Paper](https://arxiv.org/abs/2104.00240v1)][CVPR][2021]
+- Self-Supervised Learning Across Domains. [[Paper](https://arxiv.org/abs/2007.12368v2)][T-PAMI][2021]
+- Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images. [[Paper](https://arxiv.org/abs/2101.02824v3)][CVPR][2021]
+- How Well Do Self-Supervised Models Transfer?[[Paper](https://arxiv.org/abs/2011.13377v2)][CVPR][2021]
+- Barlow Twins: Self-Supervised Learning via Redundancy Reduction. [https://arxiv.org/abs/2103.03230v1][arXiv][2021]
+- Graph Self-Supervised Learning: A Survey. [[Paper](https://arxiv.org/abs/2103.00111v1)][IJCAI Paper Track][2021]
 
 
 ## Clustering 
