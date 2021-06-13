@@ -95,9 +95,9 @@
 - Self-Supervised Learning Across Domains. [[Paper](https://arxiv.org/abs/2007.12368v2)][T-PAMI][2021]
 - Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images. [[Paper](https://arxiv.org/abs/2101.02824v3)][CVPR][2021]
 - How Well Do Self-Supervised Models Transfer?[[Paper](https://arxiv.org/abs/2011.13377v2)][CVPR][2021]
-- Barlow Twins: Self-Supervised Learning via Redundancy Reduction. [https://arxiv.org/abs/2103.03230v1][arXiv][2021]
+- Barlow Twins: Self-Supervised Learning via Redundancy Reduction. [[Paper](https://arxiv.org/abs/2103.03230v1)][arXiv][2021]
 - Graph Self-Supervised Learning: A Survey. [[Paper](https://arxiv.org/abs/2103.00111v1)][IJCAI Paper Track][2021]
-
+- With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations. [[Paper](https://arxiv.org/pdf/2104.14548v1.pdf)][arXiv][2021]
 
 ## Clustering 
 - Mean Shift: A Robust Approach Towards Feature Space Analysis. [[Paper](https://courses.csail.mit.edu/6.869/handouts/PAMIMeanshift.pdf)] [Trans.PAMI] [2002]
@@ -140,15 +140,20 @@
 
 
 ## Semi-Supervised Learning
+- Semi-Supervised Learning with Ladder Networks. [[Paper](https://arxiv.org/pdf/1507.02672.pdf)][NeurIPS][2015]
+- Semi-Supervised Learning with Generative Adversarial Networks. [[Paper](https://arxiv.org/pdf/1606.01583.pdf)][arXiv][2016]
 - Temporal ensembling for semi-supervised learning. [[Paper](https://arxiv.org/pdf/1610.02242.pdf))][ICLR][2016]
 - Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results. [[Paper](https://arxiv.org/pdf/1703.01780.pdf)][ICLR][2017]
 - Virtual adversarial training: a regularization method for supervised and semi-supervised learning. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8417973)][IEEE transactions on pattern analysis and machine intelligence][2018]
 - Pseudo Labelling
+- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms. [[Paper](https://arxiv.org/pdf/1804.09170.pdf)][NeurIPS][2018]
 - MixMatch: A Holistic Approach to Semi-Supervised Learning.[[Paper](https://papers.nips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf)][NeurIPS][2019]
+- Interpolation Consistency Training for Semi-Supervised Learning. [[Paper](https://www.ijcai.org/Proceedings/2019/0504.pdf)][IJCAI][2019]
 - FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence. [[Paper](https://papers.nips.cc/paper/2020/file/06964dce9addb1c5cb5d6e3d9838f733-Paper.pdf)][NeurIPS][2020]
 - DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [[Paper](https://openreview.net/pdf?id=HJgExaVtwr)][ICLR][2020]
 - ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring. [[Paper](https://openreview.net/pdf?id=HklkeR4KPB)][ICLR][2020]
 - CoMatch: Semi-supervised Learning with Contrastive Graph Regularization. [[Paper](https://arxiv.org/pdf/2011.11183v2.pdf)][arXiv][2021]
+- Semi-Supervised Action Recognition with Temporal Contrastive Learning. [[Paper](https://rpand002.github.io/data/CVPR_2021_TCL.pdf)][CVPR][2021]
 
 
 ## Disentanglement
