@@ -162,7 +162,7 @@
 
 ## Data Augmentation
 - mixup: Beyond Empirical Risk Minimization. [[Paper](https://openreview.net/pdf?id=r1Ddp1-Rb)][ICLR][2018] 
-- Manifold Mixup [[Paper](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf)][ICML][2019]
+- Manifold Mixup: Better Representations by Interpolating Hidden States. [[Paper](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf)][ICML][2019]
 - MixUp as Locally Linear Out-Of-Manifold Regularization. [[Paper](https://arxiv.org/pdf/1809.02499v1.pdf)][AAAI][2019]
 - Improved Regularization of Convolutional Neural Networks with Cutout. [[Paper](https://arxiv.org/pdf/1708.04552.pdf)][arxiv][2017]
 - CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)][ICCV][2019]
