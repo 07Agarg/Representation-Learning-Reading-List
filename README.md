@@ -87,6 +87,7 @@
 - Self-Supervised Visual Representation Learning from Hierarchical Grouping. [[Paper](https://papers.nips.cc/paper/2020/file/c1502ae5a4d514baec129f72948c266e-Paper.pdf)][NeurIPS][2020]
 - Self-training with Noisy Student improves ImageNet classification. [[Paper](https://arxiv.org/pdf/1911.04252v4.pdf)][CVPR][2020]
 - Boosting Contrastive Self-Supervised Learning with False Negative Cancellation. [[Paper](https://arxiv.org/pdf/2011.11765.pdf)][arXiv][2020]
+- ISD: Self-Supervised Learning by Iterative Similarity Distillation. [[Paper](https://arxiv.org/pdf/2012.09259.pdf)][arXiv][2020]
 - Dense Contrastive Learning for Self-Supervised Visual Pre-Training. [[Paper](https://arxiv.org/abs/2104.09124v1)][CVPR][2021]
 - SEED: Self-supervised Distillation For Visual Representation. [[Paper](https://arxiv.org/abs/2101.04731v2)][ICLR][2021]
 - Dual-stream Multiple Instance Learning Network for Whole Slide Image Classification with Self-supervised Contrastive Learning. [[Paper](https://arxiv.org/abs/2011.08939v3)][CVPR][2021]
@@ -98,6 +99,9 @@
 - Barlow Twins: Self-Supervised Learning via Redundancy Reduction. [[Paper](https://arxiv.org/abs/2103.03230v1)][arXiv][2021]
 - Graph Self-Supervised Learning: A Survey. [[Paper](https://arxiv.org/abs/2103.00111v1)][IJCAI Paper Track][2021]
 - With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations. [[Paper](https://arxiv.org/pdf/2104.14548v1.pdf)][arXiv][2021]
+- OBoW: Online Bag-of-Visual-Words Generation for Self-Supervised Learning. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Gidaris_OBoW_Online_Bag-of-Visual-Words_Generation_for_Self-Supervised_Learning_CVPR_2021_paper.html)][CVPR][2021]
+- Emerging properties in self-supervised vision transformers. [[Paper](https://arxiv.org/pdf/2104.14294.pdf)][arXiv][2021]
+
 
 ## Clustering 
 - Mean Shift: A Robust Approach Towards Feature Space Analysis. [[Paper](https://courses.csail.mit.edu/6.869/handouts/PAMIMeanshift.pdf)] [Trans.PAMI] [2002]
@@ -136,7 +140,7 @@
 - Data Structures & Algorithms for Exact Inference in Hierarchical Clustering. [[Paper](https://arxiv.org/abs/2002.11661v3)][arXiv][2020]
 - Deep Clustering and Representation Learning that Preserves Geometric Structures. [[Paper](https://arxiv.org/abs/2009.09590v2)][arXiv][2020]
 - Adversarial Learning for Robust Deep Clustering. [[Paper](https://papers.nips.cc/paper/2020/file/6740526b78c0b230e41ae61d8ca07cf5-Paper.pdf)][NeurIPS][2020]
-- CONSENSUS CLUSTERING WITH UNSUPERVISED REPRESENTATION LEARNING. [[Paper](https://arxiv.org/pdf/2010.01245.pdf)][arXiv][2020]
+- Consensus Clustering With Unsupervised Representation Learning. [[Paper](https://arxiv.org/pdf/2010.01245.pdf)][arXiv][2020]
 
 
 ## Semi-Supervised Learning
@@ -156,6 +160,16 @@
 - Semi-Supervised Action Recognition with Temporal Contrastive Learning. [[Paper](https://rpand002.github.io/data/CVPR_2021_TCL.pdf)][CVPR][2021]
 
 
+## Data Augmentation
+- mixup: Beyond Empirical Risk Minimization. [[Paper](https://openreview.net/pdf?id=r1Ddp1-Rb)][ICLR][2018] 
+- Manifold Mixup [[Paper](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf)][ICML][2019]
+- MixUp as Locally Linear Out-Of-Manifold Regularization. [[Paper](https://arxiv.org/pdf/1809.02499v1.pdf)][AAAI][2019]
+- Improved Regularization of Convolutional Neural Networks with Cutout. [[Paper](https://arxiv.org/pdf/1708.04552.pdf)][arxiv][2017]
+- CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)][ICCV][2019]
+- Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup. [[Paper](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf)][ICML][2020]
+- How Does Mixup Help With Robustness and Generalization? [[Paper](https://openreview.net/pdf?id=8yKEo06dKNo)][ICLR][2021]
+
+
 ## Disentanglement
 - Disentangling Factors of Variation by Mixing Them. [[Paper](https://arxiv.org/pdf/1711.07410.pdf)] [CVPR] [2018]
 - Weakly Supervised Disentanglement With Guarantees. [[Paper](https://arxiv.org/pdf/1910.09772.pdf)] [ICLE] [2020]
@@ -171,4 +185,3 @@
 
 ## Book Chapters
 - Representation Learning. Deeplearning. Book Chapter 15. [[Book](https://www.deeplearningbook.org/contents/representation.html)]
-
