@@ -147,17 +147,25 @@
 - Semi-Supervised Learning with Ladder Networks. [[Paper](https://arxiv.org/pdf/1507.02672.pdf)][NeurIPS][2015]
 - Semi-Supervised Learning with Generative Adversarial Networks. [[Paper](https://arxiv.org/pdf/1606.01583.pdf)][arXiv][2016]
 - Temporal ensembling for semi-supervised learning. [[Paper](https://arxiv.org/pdf/1610.02242.pdf))][ICLR][2016]
+- Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning. [[Paper](https://papers.nips.cc/paper/2016/file/30ef30b64204a3088a26bc2e6ecf7602-Paper.pdf)][NeurIPS][2016]
 - Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results. [[Paper](https://arxiv.org/pdf/1703.01780.pdf)][ICLR][2017]
 - Virtual adversarial training: a regularization method for supervised and semi-supervised learning. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8417973)][IEEE transactions on pattern analysis and machine intelligence][2018]
-- Pseudo Labelling
+- Smooth Neighbors on Teacher Graphs for Semi-Supervised Learning. [[Paper](https://arxiv.org/pdf/1711.00258.pdf)][CVPR][2018]
 - Realistic Evaluation of Deep Semi-Supervised Learning Algorithms. [[Paper](https://arxiv.org/pdf/1804.09170.pdf)][NeurIPS][2018]
+- Deep Co-Training for Semi-Supervised Image Recognition. [[Paper](https://arxiv.org/pdf/1803.05984.pdf)][ECCV][2018]
+- Transductive Semi-Supervised Deep Learning using Min-Max Features. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Weiwei_Shi_Transductive_Semi-Supervised_Deep_ECCV_2018_paper.pdf)][ECCV][2018]
+- Semi-Supervised Deep Learning with Memory. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yanbei_Chen_Semi-Supervised_Deep_Learning_ECCV_2018_paper.pdf)][ECCV][2018]
 - MixMatch: A Holistic Approach to Semi-Supervised Learning.[[Paper](https://papers.nips.cc/paper/2019/file/1cd138d0499a68f4bb72bee04bbec2d7-Paper.pdf)][NeurIPS][2019]
+- Pseudo-labeling and confirmation bias in deep semi-supervised learning. [[Paper](https://arxiv.org/pdf/1908.02983.pdf)][IJCNN][2019]
 - Interpolation Consistency Training for Semi-Supervised Learning. [[Paper](https://www.ijcai.org/Proceedings/2019/0504.pdf)][IJCAI][2019]
+- Label Propagation for Deep Semi-supervised Learning. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Iscen_Label_Propagation_for_Deep_Semi-Supervised_Learning_CVPR_2019_paper.pdf)][CVPR][2019]
 - FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence. [[Paper](https://papers.nips.cc/paper/2020/file/06964dce9addb1c5cb5d6e3d9838f733-Paper.pdf)][NeurIPS][2020]
 - DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [[Paper](https://openreview.net/pdf?id=HJgExaVtwr)][ICLR][2020]
 - ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring. [[Paper](https://openreview.net/pdf?id=HklkeR4KPB)][ICLR][2020]
 - CoMatch: Semi-supervised Learning with Contrastive Graph Regularization. [[Paper](https://arxiv.org/pdf/2011.11183v2.pdf)][arXiv][2021]
 - Semi-Supervised Action Recognition with Temporal Contrastive Learning. [[Paper](https://rpand002.github.io/data/CVPR_2021_TCL.pdf)][CVPR][2021]
+- Sharpness-aware Minimization for Efficiently Improving Generalization. [[Paper](https://openreview.net/forum?id=6Tm1mposlrM)][ICLR][2021]
+- Meta Pseudo Labels. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf)][CVPR][2021]
 
 
 ## Data Augmentation
@@ -167,6 +175,7 @@
 - Improved Regularization of Convolutional Neural Networks with Cutout. [[Paper](https://arxiv.org/pdf/1708.04552.pdf)][arxiv][2017]
 - CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)][ICCV][2019]
 - Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup. [[Paper](http://proceedings.mlr.press/v119/kim20b/kim20b.pdf)][ICML][2020]
+- Attentive Cutmix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification. [[Paper](https://arxiv.org/pdf/2003.13048.pdf)][ICASSP][2020]
 - How Does Mixup Help With Robustness and Generalization? [[Paper](https://openreview.net/pdf?id=8yKEo06dKNo)][ICLR][2021]
 
 
