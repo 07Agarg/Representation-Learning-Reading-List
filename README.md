@@ -78,7 +78,7 @@
 - On the surprising similarities between supervised and self-supervised models. [[Paper](https://arxiv.org/abs/2010.08377v1)][arXiv][2020]
 - Understanding Self-supervised Learning with Dual Deep Networks. [[Paper](https://arxiv.org/abs/2010.00578v3)][arXiv][2020]
 - Adversarial Self-Supervised Contrastive Learning. [[Paper](https://arxiv.org/abs/2006.07589)][NeurIPS][2020]
-- Self-Supervised Relationship Probing. [[Paper](https://papers.nips.cc/paper/2020/file/13f320e7b5ead1024ac95c3b208610db-Paper.pdf][NeurIPS][2020]
+- Self-Supervised Relationship Probing. [[Paper](https://papers.nips.cc/paper/2020/file/13f320e7b5ead1024ac95c3b208610db-Paper.pdf)][NeurIPS][2020]
 - Self-Supervised Learning by Cross-Modal Audio-Video Clustering. [[Paper](https://proceedings.neurips.cc//paper/2020/file/6f2268bd1d3d3ebaabb04d6b5d099425-Paper.pdf)][NeurIPS][2020]
 - Self-Supervised Generative Adversarial Compression. [[Paper](https://arxiv.org/pdf/2007.01491.pdf)][NeurIPS][2020]
 - Unsupervised Representation Learning by Invariance Propagation. [[Paper](https://papers.nips.cc/paper/2020/file/23af4b45f1e166141a790d1a3126e77a-Paper.pdf)][NeurIPS][2020]
